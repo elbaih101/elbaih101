@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 <p><img style="display: block; 
               position:absolute;
-              right:10px;
-              bottom: 10px 
-           margin-left: auto;
+           margin-left: 1%;
            margin-right: auto;
            width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbaih101&show_icons=true&locale=en&layout=compact" alt="elbaih101" /></p>
 
