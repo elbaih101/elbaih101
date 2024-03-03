@@ -23,6 +23,10 @@ Here are some ideas to get you started:
            width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbaih101&show_icons=true&locale=en&layout=compact" alt="elbaih101" /></p>
 
 <p><img style="display: block; 
+     position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
            margin-left: auto;
            margin-right: auto;
            width: 33%;" src="https://github-readme-streak-stats.herokuapp.com/?user=elbaih101&" alt="elbaih101" /></p>
