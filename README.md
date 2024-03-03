@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <p><img style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbaih101&show_icons=true&locale=en&layout=compact" alt="elbaih101" /></p>
+           width: 60%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbaih101&show_icons=true&locale=en&layout=compact" alt="elbaih101" /></p>
 
 <p><img style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"" src="https://github-readme-streak-stats.herokuapp.com/?user=elbaih101&" alt="elbaih101" /></p>
+           width: 60%;" src="https://github-readme-streak-stats.herokuapp.com/?user=elbaih101&" alt="elbaih101" /></p>
 <p>&nbsp;<img style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;" src="https://github-readme-stats.vercel.app/api?username=elbaih101&show_icons=true&locale=en" alt="elbaih101" /></p>
+           width: 60%;" src="https://github-readme-stats.vercel.app/api?username=elbaih101&show_icons=true&locale=en" alt="elbaih101" /></p>
