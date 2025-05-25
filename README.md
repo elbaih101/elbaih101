@@ -28,14 +28,7 @@ Here are some ideas to get you started:
            margin-left: auto;
            margin-right: auto;
            width: 33%;" src="https://github-readme-streak-stats.herokuapp.com/?user=elbaih101&" alt="elbaih101" /></p>
-           <p><img style="display: block; 
-     position: absolute;
-          bottom: 0;
-          left: 0;
-          right: 0;
-           margin-left: auto;
-           margin-right: auto;
-           width: 33%;" src="https://github-readme-streak-stats.herokuapp.com/?user=V25MHanafy2&" alt="V25MHanafy2" /></p>
+       
 <p>&nbsp;<img style="display: block; 
            margin-left: auto;
            margin-right: auto;
